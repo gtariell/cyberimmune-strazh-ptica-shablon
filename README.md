@@ -81,6 +81,9 @@ networks:
 | Threat Detection  | Обнаружение угроз  |
 | RabbitMQ  | Брокер сообщений  |
 
+
+![Схема компонентов](schema-component.png)
+
 ### Схема взаимодействия
 
 ![Схема взаимодействия](schema_001.png)
