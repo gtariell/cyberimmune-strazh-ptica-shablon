@@ -21,8 +21,8 @@
 ### 1. Клонируйте репозиторий
 
  ```bash
-git clone https://github.com/your-repo/cyberimmune-drone.git
-cd cyberimmune-drone
+git clone https://github.com/gtariell/cyberimmune-strazh-ptica-shablon.git
+cd cyberimmune-strazh-ptica-shablon
 ```
 
 ### 2. Настройте окружение
